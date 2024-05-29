@@ -1,0 +1,3 @@
+C:/Users/cherry/CLionProjects/LABA15/cmake-build-debug/CMakeFiles/LABA15.dir
+C:/Users/cherry/CLionProjects/LABA15/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cherry/CLionProjects/LABA15/cmake-build-debug/CMakeFiles/rebuild_cache.dir
